@@ -1,0 +1,21 @@
+lab_id	Age	Gender	Race	Ethnicity	Disease_Site	Smoking_Status	Pack_Years	Alcohol_Use	Vital_Status	HPV_Status	One_Year_RFS	Five_Year_OS	Path_Final_Stage	Path_T_Stage	Path_N_Stage
+10004	64	Female	American Indian or Alaska Native	Not Hispanic or Latino	Oral Cavity	Current smoker	Unknown	Minimal	Dead	Negative	No	No	4a	3	2b
+10021	51	Female	White	Not Hispanic or Latino	Oral Cavity	Current smoker	35	Heavy	Dead	Negative	Yes	No	2	2	0
+10054	59	Male	White	Not Hispanic or Latino	Larynx	Current smoker	92	Moderate	Alive	Negative	Yes	Yes	3	3	0
+10058	83	Male	White	Unknown	Larynx	Current reformed smoker for < or = 15 years	60	Heavy	Dead	Negative	Yes	No	4a	4a	0
+10139	78	Female	White	Not Hispanic or Latino	Oral Cavity	Current reformed smoker for > 15 years	5	Moderate	Dead	Negative	Yes	Yes	2	2	0
+10159	35	Female	White	Not Hispanic or Latino	Oropharynx	Lifelong Non-smoker	0	Minimal	Alive	Positive	Yes	Yes	4a	2	2a
+10205	54	Male	Black or African American	Not Hispanic or Latino	Paranasal Sinus	Lifelong Non-smoker	0	Minimal	Dead	Negative	No	No	4a	4a	1
+10250	63	Male	White	Not Hispanic or Latino	Oral Cavity	Current smoker	40	Heavy	Dead	Negative	No	No	1	1	0
+10289	51	Female	White	Not Hispanic or Latino	Oropharynx	Current smoker	15	Moderate	Alive	Negative	Yes	Unknown	3	3	0
+10290	54	Male	White	Not Hispanic or Latino	Larynx	Current smoker	37	Heavy	Alive	Negative	Yes	Unknown	4a	4a	2c
+10292	62	Female	White	Hispanic or Latino	Oral Cavity	Current reformed smoker for < or = 15 years	53	Heavy	Alive	Negative	Yes	Unknown	3	3	0
+10308	54	Female	White	Not Hispanic or Latino	Oral Cavity	Current reformed smoker for > 15 years	2	Minimal	Alive	Negative	Yes	Unknown	2	2	0
+10314	74	Male	White	Not Hispanic or Latino	Oral Cavity	Current reformed smoker for > 15 years	60	Minimal	Dead	Negative	No	No	4a	2	2b
+10320	72	Male	White	Not Hispanic or Latino	Oral Cavity	Current smoker	60	Heavy	Dead	Negative	No	No	4a	4a	2b
+10326	90	Female	White	Not Hispanic or Latino	Oral Cavity	Current reformed smoker for > 15 years	20	Unknown	Alive	Negative	Yes	Unknown	2	2	0
+10336	57	Female	White	Not Hispanic or Latino	Oral Cavity	Current reformed smoker for < or = 15 years	60	Minimal	Dead	Negative	Yes	No	2	2	0
+10348	53	Male	White	Not Hispanic or Latino	Oropharynx	Current reformed smoker for < or = 15 years	66	Heavy	Alive	Negative	Unknown	Unknown	2	2	0
+10356	71	Female	White	Not Hispanic or Latino	Oral Cavity	Lifelong Non-smoker	0	Minimal	Alive	Positive	Yes	Unknown	2	2	0
+10404	85	Male	White	Not Hispanic or Latino	Oral Cavity	Lifelong Non-smoker	0	Minimal	Dead	Negative	No	No	4b	4a	3b
+20003	61	Male	White	Unknown	Larynx	Current smoker	50	Heavy	Dead	Negative	No	Yes	4a	4a	2b
